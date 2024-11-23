@@ -6,6 +6,10 @@ button{
     height: 100%;
 }
 
+button:hover{
+    background-color: hsl(241, 100%, 40%) ;
+
+}
 p{
     font-size: 2em;
     border-color: black;
